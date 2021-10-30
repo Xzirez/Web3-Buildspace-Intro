@@ -131,6 +131,7 @@ const App = () => {
 
   useEffect(() => {
     checkIfWalletIsConnected();
+    getAllWaves();
   }, [])
 
   
