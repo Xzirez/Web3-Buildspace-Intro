@@ -144,6 +144,7 @@ const App = () => {
 
         <div className="bio">
           Hello I am Vetle :D Connect your Ethereum wallet and wave at me!
+          Im gonna refactor this code later and add some more complexity :)
         </div>
 
         <button className="waveButton" onClick={wave}>
